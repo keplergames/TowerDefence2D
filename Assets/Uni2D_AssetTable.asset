@@ -11,22 +11,67 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0f2539bbb4f03424ca1e61b0436cf5d1, type: 3}
   m_Name: Uni2D_AssetTable
   m_EditorClassIdentifier: 
-  m_oAtlasPathGUIDEntries: []
-  m_oClipPathGUIDEntries: []
+  m_oAtlasPathGUIDEntries:
+  - key: Assets/Root/Uni2D/Samples/Sprite Animation Viewer/Atlases/TextureAtlas_AllAnims.prefab
+    genericValue: 18284b4832a8946828bfc30a5cce7cef
+  m_oClipPathGUIDEntries:
+  - key: Assets/Root/Uni2D/Samples/Sprite Animation Viewer/SpriteAnimationClips/AnimationClip_Stand02.prefab
+    genericValue: 9318702077fdb4dde8e336a2d883985e
+  - key: Assets/Root/Uni2D/Samples/Sprite Animation Viewer/SpriteAnimationClips/AnimationClip_Stand01.prefab
+    genericValue: bedbe84c41310469392cb3716b677974
+  - key: Assets/Root/Uni2D/Samples/Sprite Animation Viewer/SpriteAnimationClips/AnimationClip_Walk02.prefab
+    genericValue: f98a561d7f5f641629093f089afd52a8
+  - key: Assets/Root/Uni2D/Samples/Sprite Animation Viewer/SpriteAnimationClips/AnimationClip_Walk01.prefab
+    genericValue: f0f60aeefc4eb4665b8e7c81e6313235
   m_oTextureImportGUIDEntries:
-  - key: b8fb246047887e74ca14dd241f1acc66
-    genericValue: a9956a2e-54fe-47c9-a0c5-8a80eaac7372
+  - key: 54d329b90404f4c3ba36c09a9e69ceee
+    genericValue: 03ca2419-4dad-43c3-b546-b9b633768008
+  - key: 096485283cc094a208fa7d0c004ef29f
+    genericValue: 5a4382e7-c7e1-441c-b104-752671a0cc25
+  - key: d34bd6076defc42b4bbe601e3c155593
+    genericValue: 24e641b0-d8cc-4299-9081-2146c13826f3
+  - key: 8c38bb0492d934d358e262a7e5f715cf
+    genericValue: e61f6332-2594-466d-befc-f96b2bc4aa4b
   - key: 353f7b74c9d13ce4a8ffee085192555a
-    genericValue: 68d2fadb-37b0-49ff-9cd4-f45a411358df
-  - key: 94d308665c399b94e982e283af4155f1
-    genericValue: dc940fb0-3594-4ef7-85e9-f4c2cd4153be
-  - key: bb0b0eb86f5c047c3a44922aae418194
-    genericValue: 89a4be38-7ea6-42e6-a618-dfc20ee7ffcb
-  - key: a178b5cac3d6ede4597ba77b49880ce2
-    genericValue: b93489dd-6417-4acb-b8fd-278363af7430
+    genericValue: 1d5a6bc7-a664-414b-9007-43c29d4aa257
+  - key: b8fb246047887e74ca14dd241f1acc66
+    genericValue: e31f0e32-3f0d-4233-989b-aaab8dd245de
   - key: d758a3b3cb8c71b4f877753310bf16f9
-    genericValue: 44a77048-6eaf-4c45-9ba5-51fbfbcd7e63
+    genericValue: 9c508c02-f27c-4dba-a9eb-91734fd2ca76
+  - key: 77c90db4addff458eaa398c087616cb6
+    genericValue: 27ae57cf-08c1-4dc8-9a72-bf3624c500d2
+  - key: 7df7e315007c64a6484c8c813f5cf095
+    genericValue: a7c16bfe-45a3-4329-a618-fea05366acce
+  - key: 6d7b5ad5460b0452a86dfd1d96ca54b5
+    genericValue: 5a16ce95-6cf1-4510-b3d2-1b982132367d
+  - key: 94d308665c399b94e982e283af4155f1
+    genericValue: 3f2a0de9-36d0-4065-965a-9e63c4887f6a
+  - key: bb0b0eb86f5c047c3a44922aae418194
+    genericValue: bf910349-b69e-4acd-9e9d-1ce0fcb02a0c
+  - key: a178b5cac3d6ede4597ba77b49880ce2
+    genericValue: 26366d87-71da-4355-874a-7c7e36ec753e
   m_oTextureGUIDAtlasEntries: []
   m_oTextureGUIDClipEntries: []
-  m_oTextureGUIDSpritePrefabEntries: []
+  m_oTextureGUIDSpritePrefabEntries:
+  - key: 7df7e315007c64a6484c8c813f5cf095
+    genericValue:
+    - be104d0fc47264f229f868000d35fd62
+  - key: 54d329b90404f4c3ba36c09a9e69ceee
+    genericValue:
+    - 5002f32a7054f4b4a9b566eb9eccb19e
+  - key: 096485283cc094a208fa7d0c004ef29f
+    genericValue:
+    - 5922efb3c89c945f68d5c89c74768567
+  - key: d34bd6076defc42b4bbe601e3c155593
+    genericValue:
+    - cb017d45b880149de893a143c0b08fdf
+  - key: 8c38bb0492d934d358e262a7e5f715cf
+    genericValue:
+    - 5b8b41dc0bced44da8d9cc04726455b1
+  - key: 77c90db4addff458eaa398c087616cb6
+    genericValue:
+    - afccc4d91f152408c80141fcd5b98761
+  - key: 6d7b5ad5460b0452a86dfd1d96ca54b5
+    genericValue:
+    - 07d3e088f84e5461e8420b026c4ac828
   m_oAtlasGUIDSpritePrefabEntries: []

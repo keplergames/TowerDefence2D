@@ -1,0 +1,24 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Gameplay/StockButton.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Gameplay/TerrainManager.cs" Line="62" Column="2" />
+      <File FileName="Assets/Scripts/Gameplay/UnitCreator.cs" Line="184" Column="13" />
+      <File FileName="Assets/Scripts/Gameplay/Game.cs" Line="8" Column="25" />
+      <File FileName="Assets/Scripts/Gameplay/UnitManager.cs" Line="49" Column="2" />
+      <File FileName="Assets/Scripts/Gameplay/GameMono.cs" Line="7" Column="36" />
+      <File FileName="Assets/Scripts/Gameplay/PanelManager.cs" Line="46" Column="37" />
+      <File FileName="Assets/Scripts/Gameplay/TerrainBlock.cs" Line="60" Column="35" />
+      <File FileName="Assets/Scripts/Gameplay/Enemy.cs" Line="63" Column="40" />
+      <File FileName="Assets/Scripts/Gameplay/Unit.cs" Line="98" Column="6" />
+      <File FileName="Assets/Scripts/Gameplay/WaveManager.cs" Line="36" Column="39" />
+      <File FileName="Assets/Scripts/Gameplay/StockUIManager.cs" Line="57" Column="7" />
+      <File FileName="Assets/Scripts/Gameplay/Ammo.cs" Line="40" Column="2" />
+      <File FileName="Assets/Scripts/Gameplay/StockButton.cs" Line="23" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
